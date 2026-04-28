@@ -59,7 +59,7 @@ python image_stitching.py --demo
 
 ### 출력 파노라마
 
-![panorama](assets/panorama.jpg)
+![panorama](assets/panorama_result.jpg)
 
 ---
 
