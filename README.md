@@ -55,7 +55,7 @@ python image_stitching.py --demo
 
 | img1 | img2 | img3 | img4 |
 |------|------|------|------|
-| ![img1](assets/img1.jpg) | ![img2](assets/img2.jpg) | ![img3](assets/img3.jpg) | ![img4](assets/img2.jpg) |
+| ![img1](assets/img1.jpg) | ![img2](assets/img2.jpg) | ![img3](assets/img3.jpg) | ![img4](assets/img5.jpg) |
 
 ### 출력 파노라마
 
